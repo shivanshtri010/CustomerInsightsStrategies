@@ -17,13 +17,13 @@ This repository contains code for unlocking customer insights and implementing d
 
 Install the required libraries using:
 ```
-pip install -r requirements.txt
+pip install  pandas scikit-learn statsmodels mlxtend matplotlib seaborn networkx pmdarima
 ```
 
 ## Usage
 1. Clone the repository:
 ```
-git clone <repository-url>
+git clone 
 ```
 2. Navigate to the cloned directory:
 ```
