@@ -23,7 +23,7 @@ pip install  pandas scikit-learn statsmodels mlxtend matplotlib seaborn networkx
 ## Usage
 1. Clone the repository:
 ```
-git clone 
+git clone https://github.com/shivanshtri010/CustomerInsightsStrategies.git
 ```
 2. Navigate to the cloned directory:
 ```
@@ -33,7 +33,7 @@ cd customer-insights-marketing-strategies
 
 ## Contents
 - `customer_insights_marketing.ipynb`: Jupyter Notebook containing the code for customer insights and marketing strategies.
-- `customer_transactions_sample.xlsx`: Sample dataset containing customer transaction records.
+- `customer_transactions_sample.xlsx`: Sample dataset containing customer transaction records.(https://docs.google.com/spreadsheets/d/1-31wL1vkNU8-yxfc2ItAX6KE4Re7RuUP/edit?usp=drive_web&ouid=108182797203391057464&rtpof=true)
 
 ## Data
 The dataset (`customer_transactions_sample.xlsx`) includes information about customer transactions, such as Invoice ID, Stock Code, Quantity, Price, Invoice Date, and Country.
@@ -44,9 +44,3 @@ The dataset (`customer_transactions_sample.xlsx`) includes information about cus
 - **Association Rules**: Generated product recommendations using association rules mining.
 - **Churn Prediction**: Built a logistic regression model to predict customer churn.
 - **Churn Risk Analysis**: Analyzed churn risk by country and month.
-
-## Contributors
-- [Your Name](https://github.com/yourusername)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
