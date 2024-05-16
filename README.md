@@ -27,7 +27,7 @@ git clone https://github.com/shivanshtri010/CustomerInsightsStrategies.git
 ```
 2. Navigate to the cloned directory:
 ```
-cd customer-insights-marketing-strategies
+cd CustomerInsightsStrategies
 ```
 3. Run the Jupyter Notebook `customer_insights_marketing.ipynb` to execute the code and analyze the data.
 
